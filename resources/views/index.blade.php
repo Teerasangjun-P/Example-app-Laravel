@@ -7,6 +7,14 @@
     <title>Document</title>
 </head>
 <body>
-    <h1 class="text-center text-2xl font-bold">ยินดีต้อนรับ สู่หน้าเว็บของฉัน</h1>
+    <nav class="bg-gray-800 text-white p-4">
+        <div class="container mx-auto">
+            <h1 class="text-center text-2xl font-bold">ยินดีต้อนรับ สู่หน้าเว็บของฉัน</h1>
+            <ul class="flex space-x-4">
+                <li><a href="" class="hover:text-gray-300">Home</a></li>
+                <li><a href="" class="hover:text-gray-300">Index</a></li>
+            </ul>
+        </div>
+    </nav>
 </body>
 </html>
